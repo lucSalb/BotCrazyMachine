@@ -1,0 +1,25 @@
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine_MarkupCompile.cache
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine_MarkupCompile.lref
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\bin\Debug\net6.0-windows\BotCrazyMachine.exe
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\bin\Debug\net6.0-windows\BotCrazyMachine.deps.json
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\bin\Debug\net6.0-windows\BotCrazyMachine.runtimeconfig.json
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\bin\Debug\net6.0-windows\BotCrazyMachine.dll
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\bin\Debug\net6.0-windows\BotCrazyMachine.pdb
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.g.resources
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.dll
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\refint\BotCrazyMachine.dll
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.pdb
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\BotCrazyMachine.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\ref\BotCrazyMachine.dll
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\App.baml
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\Custom Elements\MenuButton.g.cs
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\Custom Elements\MenuButton.baml

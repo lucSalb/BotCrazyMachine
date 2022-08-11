@@ -7,4 +7,42 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\Icons\alert.png" />
+    <None Remove="Images\Icons\arrow.png" />
+    <None Remove="Images\Icons\book.png" />
+    <None Remove="Images\Icons\clock.png" />
+    <None Remove="Images\Icons\gear.png" />
+    <None Remove="Images\Icons\home.png" />
+    <None Remove="Images\Icons\logo.png" />
+    <None Remove="Images\Icons\S.png" />
+    <None Remove="Images\Icons\SelectedArrow.png" />
+    <None Remove="Images\Icons\SelectedBook.png" />
+    <None Remove="Images\Icons\SelectedClock.png" />
+    <None Remove="Images\Icons\SelectedGear.png" />
+    <None Remove="Images\Icons\SelectedIndex.png" />
+    <None Remove="Images\Icons\SelectedS.png" />
+    <None Remove="Images\Icons\SelectedTrade.png" />
+    <None Remove="Images\Icons\trade.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Icons\alert.png" />
+    <Resource Include="Images\Icons\arrow.png" />
+    <Resource Include="Images\Icons\book.png" />
+    <Resource Include="Images\Icons\clock.png" />
+    <Resource Include="Images\Icons\gear.png" />
+    <Resource Include="Images\Icons\home.png" />
+    <Resource Include="Images\Icons\logo.png" />
+    <Resource Include="Images\Icons\S.png" />
+    <Resource Include="Images\Icons\SelectedArrow.png" />
+    <Resource Include="Images\Icons\SelectedBook.png" />
+    <Resource Include="Images\Icons\SelectedClock.png" />
+    <Resource Include="Images\Icons\SelectedGear.png" />
+    <Resource Include="Images\Icons\SelectedIndex.png" />
+    <Resource Include="Images\Icons\SelectedS.png" />
+    <Resource Include="Images\Icons\SelectedTrade.png" />
+    <Resource Include="Images\Icons\trade.png" />
+  </ItemGroup>
+
 </Project>

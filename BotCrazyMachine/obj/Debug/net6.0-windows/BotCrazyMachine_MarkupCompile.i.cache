@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\obj\Debug\net6.0-windows\
 BotCrazyMachine
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\BotCrazyMachine\App.xaml
-11407045341
+C:\Users\lucas\Desktop\Lucas\repos\BotCrazyMachine\BotCrazyMachine\App.xaml
+2-326568006
 
-51741938138
+6663236727
 194-200944676
-MainWindow.xaml;
+Custom Elements\MenuButton.xaml;MainWindow.xaml;
 
-False
+True
 
