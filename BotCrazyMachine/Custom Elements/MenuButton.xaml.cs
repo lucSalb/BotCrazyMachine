@@ -53,7 +53,7 @@ namespace BotCrazyMachine.Custom_Elements
         private void Button_MouseEnter(object sender, MouseEventArgs e)
         {
             MenuButtonSidebar.Visibility = Visibility.Visible;
-            MenuButtonText.Foreground = new System.Windows.Media.SolidColorBrush((Color)ColorConverter.ConvertFromString("#F03E2B"));
+            //MenuButtonText.Foreground = new System.Windows.Media.SolidColorBrush((Color)ColorConverter.ConvertFromString("#F03E2B"));
         }
 
         private void Button_MouseLeave(object sender, MouseEventArgs e)

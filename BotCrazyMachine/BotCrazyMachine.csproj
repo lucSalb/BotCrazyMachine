@@ -12,6 +12,8 @@
     <None Remove="Images\Icons\arrow.png" />
     <None Remove="Images\Icons\book.png" />
     <None Remove="Images\Icons\clock.png" />
+    <None Remove="Images\Icons\close.png" />
+    <None Remove="Images\Icons\disk.png" />
     <None Remove="Images\Icons\gear.png" />
     <None Remove="Images\Icons\home.png" />
     <None Remove="Images\Icons\logo.png" />
@@ -31,6 +33,8 @@
     <Resource Include="Images\Icons\arrow.png" />
     <Resource Include="Images\Icons\book.png" />
     <Resource Include="Images\Icons\clock.png" />
+    <Resource Include="Images\Icons\close.png" />
+    <Resource Include="Images\Icons\disk.png" />
     <Resource Include="Images\Icons\gear.png" />
     <Resource Include="Images\Icons\home.png" />
     <Resource Include="Images\Icons\logo.png" />

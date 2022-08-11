@@ -5,33 +5,16 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
             MouseEnter="Button_MouseEnter"
             MouseLeave="Button_MouseLeave"
+            Style="{StaticResource CustomMenuButton}"
              xmlns:local="clr-namespace:BotCrazyMachine.Custom_Elements"
              mc:Ignorable="d">
  
-    <Button.Style>
-        <Style TargetType="Button">
-            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
-            <Setter Property="VerticalContentAlignment" Value="Stretch"/>
-            <Setter Property="HorizontalAlignment" Value="Stretch"/>
-            <Setter Property="BorderBrush" Value="Transparent"/>
-            <Setter Property="BorderThickness" Value="0"/>
-
-            <Setter Property="Cursor" Value="Hand"/>
-            <Setter Property="BorderThickness" Value="0"/>
-            <Setter Property="Padding" Value="0"/>
-            <Style.Triggers>
-                <DataTrigger Binding="{Binding IsMouseOver}" Value="True">
-                    <Setter Property="Visibility" Value="Visible" />
-                 </DataTrigger>
-            </Style.Triggers>
-        </Style>
-    </Button.Style>
     <Grid Margin="0"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="12*"/>
         </Grid.ColumnDefinitions>
-        <Border x:Name="MenuButtonSidebar" Background =" #F03E2B" Visibility="Hidden" Grid.Column="0" CornerRadius="5" Width="5" HorizontalAlignment="Left" VerticalAlignment="Stretch"/>
+        <Border x:Name="MenuButtonSidebar" Background ="#F03E2B" Visibility="Hidden" Grid.Column="0" CornerRadius="5" Width="5" HorizontalAlignment="Left" VerticalAlignment="Stretch"/>
         <StackPanel  Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
             <Image x:Name="MenuButtonIcon"  HorizontalAlignment="Stretch" Height="30" Width="25"/>
             <Label x:Name="MenuButtonText"   HorizontalAlignment="Center" Foreground="White" Padding="0" FontSize="14"/>
